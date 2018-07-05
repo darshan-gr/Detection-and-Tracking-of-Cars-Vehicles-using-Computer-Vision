@@ -34,7 +34,7 @@
 
 [KITTI vision benchmark suite](http://www.cvlibs.net/datasets/kitti/)
 
-[caltech database](http://www.vision.caltech.edu/html-files/archive.html)
+[Caltech database](http://www.vision.caltech.edu/html-files/archive.html)
 
 [TU Graz database](http://www-old.emt.tugraz.at/~pinz/data/GRAZ_02/)
 
