@@ -4,29 +4,29 @@
 
 1. _**Data evaluation**_
 
- * Analysis of data
+    * Analysis of data
  
- * Classification of car and not-car images
+    * Classification of car and not-car images
  
- * HOG feature extraction
+    * HOG feature extraction
  
- * Visualization of HOG features of images  
+    * Visualization of HOG features of images  
 
 2. _**HOG classifiers and SVC training**_
 
-  * Extracting features from list of images
+     * Extracting features from list of images
   
-  * Train a linear support vector machine (SVM) classifier
+     * Train a linear support vector machine (SVM) classifier
 
 3. _**Car/Vehicle detection pipeline**_
 
-  * Predicting over feature extracted images and to draw bounding boxes
+     * Predicting over feature extracted images and to draw bounding boxes
   
-  * Sliding window technique is applied by varying parameters and detection is by trained classifiers
+     * Sliding window technique is applied by varying parameters and detection is by trained classifiers
   
-  * Heat map is genearted based on rectangular locations and boundng boxes apples on labels
+     * Heat map is genearted based on rectangular locations and boundng boxes apples on labels
   
-  * Run a video through the pipeline
+     * Run a video through the pipeline
 
  _**Datasets used**_:
 
