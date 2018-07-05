@@ -14,17 +14,21 @@
 
 2. _**HOG classifiers and SVC training**_
 
-  * Extracting features from list of images.
-  * Train a linear support vector machine (SVM) classifier.
+  * Extracting features from list of images
+  
+  * Train a linear support vector machine (SVM) classifier
 
 3. _**Car/Vehicle detection pipeline**_
 
   * Predicting over feature extracted images and to draw bounding boxes
+  
   * Sliding window technique is applied by varying parameters and detection is by trained classifiers
+  
   * Heat map is genearted based on rectangular locations and boundng boxes apples on labels
+  
   * Run a video through the pipeline
 
-## Datasets used:
+ _**Datasets used**_:
 
 [GTI vehicle image database](http://www.gti.ssr.upm.es/data/Vehicle_database.html)
 
