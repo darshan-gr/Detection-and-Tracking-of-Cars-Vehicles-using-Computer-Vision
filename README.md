@@ -24,4 +24,8 @@ Run a video through the pipeline
 ## Datasets used:
 
 [GTI vehicle image database](http://www.gti.ssr.upm.es/data/Vehicle_database.html)
+[KITTI vision benchmark suite](http://www.cvlibs.net/datasets/kitti/)
+[caltech database](http://www.vision.caltech.edu/html-files/archive.html)
+[TU Graz database](http://www-old.emt.tugraz.at/~pinz/data/GRAZ_02/)
+[Udacity labelled sets](https://github.com/udacity/self-driving-car/tree/master/annotations)
 
